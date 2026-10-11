@@ -4,4 +4,3 @@ for i in range(5, 20):
     arr.add(i)
 print(arr)
 
-print("Исполнение завершено")
